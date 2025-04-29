@@ -1,5 +1,5 @@
 
-from models import WhisperModel, Wav2VecModel, ConformerModel, GoogleSpeechRecognitionModel, APIWhisperModel
+from models import WhisperModel, Wav2VecModel, NvidiaModel, GoogleSpeechRecognitionModel, APIWhisperModel, Wav2VecConformerModel, FasterWhisperModel, WhisperS2TModel
 import os
 import pandas as pd
 from tqdm import tqdm
@@ -7,7 +7,7 @@ import torch
 from data import DatasetLoader
 from data_utils import transcribe_audio_files, transcribe_audio_arrays, save_results
 import argparse
-
+from eval import calculate_metrics
 
 
 def get_model_instance(model_type, model_id, device):
@@ -16,10 +16,16 @@ def get_model_instance(model_type, model_id, device):
     """
     if model_type == "whisper":
         return WhisperModel(model_id=model_id, device=device)
+    if model_type == "faster_whisper":
+        return FasterWhisperModel(model_id=model_id, device=device)
     elif model_type == "wav2vec":
         return Wav2VecModel(model_id=model_id, device=device)
-    elif model_type == "conformer":
-        return ConformerModel()
+    elif model_type == "wav2vec_conformer":
+        return Wav2VecConformerModel(model_id=model_id, device=device)
+    elif model_type == "whisper_s2t":
+        return WhisperS2TModel(model_id=model_id, device=device)
+    elif model_type == "nvidia":
+        return NvidiaModel(model_id=model_id, device=device)
     elif model_type == "google":
         return GoogleSpeechRecognitionModel()
     elif model_type == "api_whisper":
@@ -58,7 +64,6 @@ def main():
             raise ValueError("O argumento '--dataset_name' é obrigatório para datasets do Hugging Face.")
         dataset = DatasetLoader.load_huggingface_dataset(args.dataset_name, args.split, args.audio_column)
         audio_data = DatasetLoader.get_audio_data(dataset, args.audio_column, args.id_column)
-        references = dataset[args.reference_column]  # Carregar as referências
 
     # Processar cada modelo
     for model_entry in args.models:
@@ -73,16 +78,15 @@ def main():
         elif args.dataset_type == "huggingface":
             data = transcribe_audio_arrays(model, audio_data)
 
-        # Adicionar referências às transcrições
-        for i, item in enumerate(data):
-            item["referencia"] = references[i]
-
         # Salvar resultados
         output_file = os.path.join(args.output_dir, f"{model_type}_{model_id.split('/')[-1]}.csv")
         save_results(data, output_file)
         torch.cuda.empty_cache()
 
     print("Processamento concluído!")
+    calculate_metrics(args.output_dir, dataset)
+
+
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,18 @@
+nemo-toolkit
+hydra-core
+lightning
+lhotse
+jiwer
+pyannote-audio
+braceexpand
+webdataset
+librosa
+editdistance
+transformers    
+datasets
+# SpeechRecognition
+openai
+pandas
+faster-whisper
+
+# whisper-s2t # quebra todos os outros fazer separado

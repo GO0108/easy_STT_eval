@@ -33,12 +33,10 @@ class DatasetLoader:
         Retorna os arrays de áudio, taxas de amostragem e referências de um dataset do Hugging Face.
         """
         audio_data = []
-        references = []
         for sample in dataset:
             id = sample[id_column]
             audio_array = sample[audio_column]["array"]
             sampling_rate = sample[audio_column]["sampling_rate"]
             reference = sample[reference_column]
-            audio_data.append((id, audio_array, sampling_rate))
-            references.append(reference)
-        return audio_data, references
+            audio_data.append((id, reference, audio_array, sampling_rate))
+        return audio_data

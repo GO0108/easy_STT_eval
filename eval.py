@@ -14,51 +14,51 @@ def normalize_text(text):
     text = text.lower()
     return text
 
-def evaluate_results(output_dir):
+
+def calculate_metrics(results_dir, dataset, output_dir='final_results'):
     """
-    Avalia os resultados dos arquivos CSV no diretório de saída.
-    Calcula WER, CER, tempo total de processamento e RTF.
+    Calcula métricas WER, CER e outras estatísticas para os resultados de transcrição.
+
+    Args:
+        results_dir (str): Diretório contendo os arquivos CSV com as transcrições.
+        dataset (Dataset): Dataset do Hugging Face contendo as referências.
+        output_dir (str): Diretório para salvar os resultados finais.
+
+    Returns:
+        pd.DataFrame: DataFrame contendo as métricas calculadas.
     """
-    evaluation_data = []
+    tempo_total = sum([len(audio['array']) / audio['sampling_rate'] for audio in dataset['audio']])
+    print("Tempo do dataset:", tempo_total/60, "min")
+    final_results = []
 
-    # Iterar sobre todos os arquivos CSV no diretório de saída
-    csv_files = glob.glob(os.path.join(output_dir, "*.csv"))
-    for csv_file in csv_files:
-        df = pd.read_csv(csv_file)
+    for result in glob.glob(os.path.join(results_dir, "*.csv")):
+        info = pd.read_csv(result)
 
-        # Verificar se as colunas necessárias estão presentes
-        if "transcricao" not in df.columns or "referencia" not in df.columns:
-            print(f"Arquivo {csv_file} não contém as colunas necessárias para avaliação.")
-            continue
+        # Aplica WER e CER
+        info['wer'] = info.apply(lambda row: wer(normalize_text(row['referencia']), normalize_text(row['transcricao'])), axis=1)
+        info['cer'] = info.apply(lambda row: cer(normalize_text(row['referencia']), normalize_text(row['transcricao'])), axis=1)
+        info.to_csv(result, index=False, encoding='utf-8')
 
-        # Normalizar transcrições e referências
-        transcriptions = df["transcricao"].apply(normalize_text).tolist()
-        references = df["referencia"].apply(normalize_text).tolist()
-        tempos = df["tempo"].tolist()
+        # Calcula métricas agregadas
+        tempo_inferencia = sum(info['tempo'])
+        rtf = tempo_inferencia / tempo_total
+        wer_mean, wer_median, cer_mean, cer_median = info['wer'].mean(), info['wer'].median(), info['cer'].mean(), info['cer'].median()
 
-        # Calcular métricas
-        total_tempo = sum(tempos)
-        total_audio_duracao = len(transcriptions) * 10  # Substitua pela duração real do áudio
-        rtf = total_tempo / total_audio_duracao if total_audio_duracao > 0 else 0
+        new_row = {
+            'result': result.split('/')[-1].replace('.csv', ''),
+            'tempo_inferencia (min)': tempo_inferencia/60,
+            'rtf': rtf,
+            'wer_mean': wer_mean,
+            'wer_median': wer_median,
+            'cer_mean': cer_mean,
+            'cer_median': cer_median
+        }
 
-        wer_score = wer(references, transcriptions)
-        cer_score = cer(references, transcriptions)
+        final_results.append(new_row)
+    
+    # Salva resultados finais
+    os.makedirs(os.path.join(results_dir, output_dir), exist_ok=True)
+    df_final = pd.DataFrame(final_results)
+    df_final.to_csv(os.path.join(results_dir, output_dir,'final_results.csv'), index=False, encoding='utf-8')
 
-        # Adicionar resultados à tabela
-        evaluation_data.append({
-            "arquivo": os.path.basename(csv_file),
-            "wer": round(wer_score, 4),
-            "cer": round(cer_score, 4),
-            "tempo_total_s": round(total_tempo, 2),
-            "rtf": round(rtf, 4)
-        })
-
-    # Criar DataFrame de avaliação
-    eval_df = pd.DataFrame(evaluation_data)
-    eval_df.to_csv(os.path.join(output_dir, "evaluation_summary.csv"), index=False)
-    print("Avaliação concluída! Resultados salvos em 'evaluation_summary.csv'.")
-
-
-if __name__ == "__main__":
-    output_dir = "results"  # Substitua pelo diretório onde os CSVs estão armazenados
-    evaluate_results(output_dir)
+    return df_final

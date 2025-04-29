@@ -40,7 +40,7 @@ def transcribe_audio_arrays(model, audio_data):
     """
     data = []
     total_files = len(audio_data)
-    for id, audio_array, sampling_rate in tqdm(audio_data, total=total_files, desc=f"Processing {model.model_id}"):
+    for id, reference, audio_array, sampling_rate in tqdm(audio_data, total=total_files, desc=f"Processing {model.model_id}"):
         inicio = time.time()
         transcription = model.transcribe((audio_array, sampling_rate))
         fim = time.time()
@@ -48,6 +48,7 @@ def transcribe_audio_arrays(model, audio_data):
         tempo_execucao = fim - inicio
         data.append({
             'audio_id': id,  
+            'referencia': reference,
             'tempo': tempo_execucao,
             'transcricao': transcription
         })
