@@ -1,10 +1,10 @@
 from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline, AutoModelForCTC, AutoTokenizer, AutoFeatureExtractor, Wav2Vec2ForCTC, Wav2Vec2Processor, Wav2Vec2ConformerModel
 
-import whisper_s2t
-from faster_whisper import WhisperModel as FasterWhisper
-# import nemo.collections.asr as nemo_asr
+# import whisper_s2t
+# from faster_whisper import WhisperModel as FasterWhisper
+import nemo.collections.asr as nemo_asr
 # from openai import OpenAI
-# import speech_recognition as sr
+import speech_recognition as sr
 import torch
 import torchaudio
 import os
@@ -211,9 +211,9 @@ class Wav2VecModel(ASRModel):
 
     
         inputs = self.processor(audio, sampling_rate=sr,return_tensors="pt")
-
         with torch.no_grad():
-            logits = self.model(**inputs).logits
+            logits = self.model(inputs.input_values.squeeze(0)).logits
+            
 
         predicted_ids = torch.argmax(logits, dim=-1)
         transcription = self.processor.batch_decode(predicted_ids)

@@ -38,7 +38,7 @@ MODELS=(
     # "whisper_s2t:turbo"
 
     # "wav2vec_conformer:facebook/wav2vec2-conformer-rel-pos-large"
-    # "google:google_stt"
+    "google:google_stt"
     # "api_whisper:whisper-1"
 
     # "wav2vec:facebook/wav2vec2-base"
@@ -89,15 +89,17 @@ MODELS=(
     # "nvidia:stt_en_squeezeformer_ctc_medium_large_ls"
     # "nvidia:stt_en_squeezeformer_ctc_small_medium_ls"
     # "nvidia:stt_en_squeezeformer_ctc_xsmall_ls"
+    # "nvidia:nvidia/parakeet-tdt-0.6b-v2"
 
 
 
 )
-DATASET_TYPE="huggingface"
+DATASET_TYPE="local"
 # DATASET_NAME="parler-tts/mls_eng"
-DATASET_NAME="hf-internal-testing/librispeech_asr_dummy"
+DATASET_NAME="/workspace/data"
 SPLIT="validation"
 AUDIO_COLUMN="audio"
+METADATA_PATH="/workspace/metadata_b.csv"
 ID_COLUMN="id"
 OUTPUT_DIR="results"
 DEVICE="cpu"
@@ -109,6 +111,7 @@ for MODEL in "${MODELS[@]}"; do
     python main.py \
         --dataset_type $DATASET_TYPE \
         --dataset_name $DATASET_NAME \
+        --metadata_path $METADATA_PATH \
         --split $SPLIT \
         --audio_column $AUDIO_COLUMN \
         --id_column $ID_COLUMN \

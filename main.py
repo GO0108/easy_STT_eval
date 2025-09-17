@@ -74,6 +74,7 @@ def main():
 
         # Transcrever áudios
         if args.dataset_type == "local":
+            
             data = transcribe_audio_files(model, audio_data, audio_path)
         elif args.dataset_type == "huggingface":
             data = transcribe_audio_arrays(model, audio_data)

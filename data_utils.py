@@ -22,7 +22,7 @@ def transcribe_audio_files(model, audio_files, audio_path):
 
     for audio_file in tqdm(audio_files, total=total_files, desc=f"Processing {model.model_id}"):
         inicio = time.time()
-        transcription = model.transcribe(audio_path + audio_file)
+        transcription = model.transcribe(audio_file)
         fim = time.time()
 
         tempo_execucao = fim - inicio

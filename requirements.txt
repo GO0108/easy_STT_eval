@@ -11,8 +11,8 @@ editdistance
 transformers    
 datasets
 # SpeechRecognition
-openai
-pandas
-faster-whisper
+# openai
+# pandas
+# faster-whisper
 
 # whisper-s2t # quebra todos os outros fazer separado

@@ -1,0 +1,453 @@
+audio_file,tempo,transcricao
+/workspace/data/synthesized_audio/Q362.wav,0.5813512802124023, Can you show me the control bar for playing music?
+/workspace/data/synthesized_audio/Q203.wav,0.5591533184051514, How do I set clear dialogue?
+/workspace/data/synthesized_audio/Q429.wav,0.562126636505127, Why should you read the safety instructions before using the TV?
+/workspace/data/synthesized_audio/Q267.wav,0.6583349704742432, How can I rent or buy a movie or TV show in Google TV app?
+/workspace/data/synthesized_audio/Q019.wav,0.6725821495056152, How to open the list of installed applications?
+/workspace/data/synthesized_audio/Q200.wav,0.4761953353881836, How do I select a sound style?
+/workspace/data/synthesized_audio/Q011.wav,0.5184817314147949, What dimensions should I consider when buying the wall mount?
+/workspace/data/synthesized_audio/Q153.wav,0.6966068744659424, How can I view photos stored on digital photo camera?
+/workspace/data/synthesized_audio/Q385.wav,0.6522986888885498, What are the sound specs?
+/workspace/data/synthesized_audio/Q106.wav,0.8333139419555664, What can you tell me about in ten of port?
+/workspace/data/synthesized_audio/Q372.wav,0.7081351280212402, How do I open Netflix?
+/workspace/data/synthesized_audio/Q166.wav,0.8566389083862305, How do I start the internet browser?
+/workspace/data/synthesized_audio/Q255.wav,0.9442706108093262, How to set up Philips wireless home speakers with Ambulite.
+/workspace/data/synthesized_audio/Q178.wav,1.0222067832946777, How do I set dark details? Gamma.
+/workspace/data/synthesized_audio/Q047.wav,0.9045772552490234, How can I switch the TV on?
+/workspace/data/synthesized_audio/Q152.wav,1.0030384063720703, How can I have more information in watching or playing content from a USB storage device?
+/workspace/data/synthesized_audio/Q029.wav,0.9697666168212891, How to Open Direct Selection of Options.
+/workspace/data/synthesized_audio/Q010.wav,0.7461791038513184, How to find assembly instructions of the TV stand.
+/workspace/data/synthesized_audio/Q114.wav,1.2589097023010254, How can I operate HDMI CC compatible devices with TV remote control?
+/workspace/data/synthesized_audio/Q181.wav,0.7733056545257568, How to set up HDR tone mapping.
+/workspace/data/synthesized_audio/Q036.wav,0.9589452743530273, How to Insert Digital Sub-Channels
+/workspace/data/synthesized_audio/Q099.wav,0.704258918762207, How can I open the TV guide?
+/workspace/data/synthesized_audio/Q309.wav,0.8211596012115479, How can I check how much storage is being used?
+/workspace/data/synthesized_audio/Q032.wav,0.7295196056365967, How to use the playback buttons?
+/workspace/data/synthesized_audio/Q398.wav,1.1647071838378906, What can I do if the stand-by-light keeps blinking?
+/workspace/data/synthesized_audio/Q286.wav,0.9026572704315186, How can I turn on text to speech?
+/workspace/data/synthesized_audio/Q052.wav,0.9959261417388916, How can I open the basic menu without the remote control?
+/workspace/data/synthesized_audio/Q008.wav,1.0811941623687744, How do I open the home screen and open an item?
+/workspace/data/synthesized_audio/Q306.wav,0.7772731781005859, How can I use the 24-hour format?
+/workspace/data/synthesized_audio/Q390.wav,1.346583604812622, How can I use more help functions to diagnose issues and get more information about the TV?
+/workspace/data/synthesized_audio/Q205.wav,0.7286252975463867, How do I set up custom AI equalizer?
+/workspace/data/synthesized_audio/Q196.wav,0.8120782375335693, How to set up motion blur reduction.
+/workspace/data/synthesized_audio/Q257.wav,0.8912539482116699, How do I set up my Phillips wireless home speakers to work with Ambalight?
+/workspace/data/synthesized_audio/Q077.wav,0.9376237392425537, How can I set the content rating?
+/workspace/data/synthesized_audio/Q413.wav,0.9441943168640137," What can I do if HDMI, EARC is not working properly?"
+/workspace/data/synthesized_audio/Q334.wav,1.0103654861450195," How can I view the Bluetooth, registered device information?"
+/workspace/data/synthesized_audio/Q230.wav,0.9108350276947021, How do I set up audio output?
+/workspace/data/synthesized_audio/Q023.wav,0.7510697841644287, How do I open the channel list while watching TV?
+/workspace/data/synthesized_audio/Q351.wav,0.7427644729614258, How can I open the photo folder?
+/workspace/data/synthesized_audio/Q445.wav,0.9200308322906494, What is AMD FreeSync Premium?
+/workspace/data/synthesized_audio/Q359.wav,0.7376499176025391, What can you tell me about browsing 360 Photo Files?
+/workspace/data/synthesized_audio/Q227.wav,0.8110430240631104," Question, how do I set up auto volume?"
+/workspace/data/synthesized_audio/Q110.wav,0.9135870933532715, What can you tell me about HDMI Arc and EARC?
+/workspace/data/synthesized_audio/Q421.wav,0.7697770595550537, What can I do if I'm unable to pair?
+/workspace/data/synthesized_audio/Q222.wav,1.117976188659668, How do I set up DRC? Dynamic range control.
+/workspace/data/synthesized_audio/Q226.wav,0.702509880065918, How to set up room calibration.
+/workspace/data/synthesized_audio/Q248.wav,0.7330858707427979, How do I set up lounge light mode?
+/workspace/data/synthesized_audio/Q214.wav,0.8005537986755371," Question, how do I set up Mimi Sound Personalization?"
+/workspace/data/synthesized_audio/Q187.wav,0.7015798091888428, How to set wide color gamut.
+/workspace/data/synthesized_audio/Q046.wav,0.8804056644439697, How do I clean the remote control?
+/workspace/data/synthesized_audio/Q442.wav,0.7355911731719971, What is Google TV?
+/workspace/data/synthesized_audio/Q250.wav,0.8191592693328857, How do I set Ambalight Brightness?
+/workspace/data/synthesized_audio/Q256.wav,1.1864726543426514, How do I turn on off Phillips wireless home speakers that work with Ambilite?
+/workspace/data/synthesized_audio/Q301.wav,0.6837446689605713, How can assess date and time setting?
+/workspace/data/synthesized_audio/Q314.wav,0.5642037391662598, Pre-set time.
+/workspace/data/synthesized_audio/Q013.wav,1.0906929969787598, How do I insert the power cable into the power connector?
+/workspace/data/synthesized_audio/Q311.wav,0.9069843292236328, How can I set the power on behavior?
+/workspace/data/synthesized_audio/Q216.wav,1.2987518310546875, How do I control the sound settings of my HDMI sound system via EasyLink 2?
+/workspace/data/synthesized_audio/Q324.wav,0.7586696147918701, How can I adjust picture and audio in retail mode settings?
+/workspace/data/synthesized_audio/Q009.wav,0.7110207080841064, How do I find the safety instructions?
+/workspace/data/synthesized_audio/Q405.wav,1.0478522777557373, What can I do if the picture settings change after a while?
+/workspace/data/synthesized_audio/Q363.wav,0.7411856651306152, What can you tell me about browsing music files?
+/workspace/data/synthesized_audio/Q426.wav,0.904205322265625, What should I do to troubleshoot any problems with a Phillips TV?
+/workspace/data/synthesized_audio/Q061.wav,0.9780881404876709, What are the conditions for the channel list copy?
+/workspace/data/synthesized_audio/Q199.wav,0.7754929065704346, How do I format the picture manually?
+/workspace/data/synthesized_audio/Q249.wav,1.064270257949829, How do I set the duration in minutes of the lounge light mode?
+/workspace/data/synthesized_audio/Q072.wav,0.7427141666412354, How to unlock a channel.
+/workspace/data/synthesized_audio/Q284.wav,0.6835997104644775, How can I switch on accessibility?
+/workspace/data/synthesized_audio/Q270.wav,0.9165446758270264, What you can tell me about YouTube music app.
+/workspace/data/synthesized_audio/Q177.wav,0.6313724517822266, How to set video level.
+/workspace/data/synthesized_audio/Q172.wav,0.9904863834381104, How to set automatic picture and movie style.
+/workspace/data/synthesized_audio/Q192.wav,0.6934258937835693, How do I set up noise reduction?
+/workspace/data/synthesized_audio/Q117.wav,0.9786443710327148, Could you tell me more about easelink?
+/workspace/data/synthesized_audio/Q264.wav,0.884549617767334, What you can tell me about apps.
+/workspace/data/synthesized_audio/Q415.wav,0.8195552825927734, What can I do if USB file playback is choppy?
+/workspace/data/synthesized_audio/Q224.wav,0.8847084045410156, How do I set up sound stage?
+/workspace/data/synthesized_audio/Q221.wav,0.9204692840576172, How do I set up surround sound?
+/workspace/data/synthesized_audio/Q005.wav,0.7013695240020752, How to do a search on Google TV.
+/workspace/data/synthesized_audio/Q140.wav,0.7489948272705078, How can I adjust the volume and headphones?
+/workspace/data/synthesized_audio/Q313.wav,0.8392674922943115, How can I set the screen off to save energy consumption?
+/workspace/data/synthesized_audio/Q364.wav,0.8618800640106201, How can I play music files?
+/workspace/data/synthesized_audio/Q316.wav,0.8248631954193115, What I need to use Google Cast.
+/workspace/data/synthesized_audio/Q308.wav,0.7997050285339355, How can I set the keyboard layout for USB keyboard?
+/workspace/data/synthesized_audio/Q418.wav,0.8256866931915283, What can I do if the PC and internet connection are slow?
+/workspace/data/synthesized_audio/Q190.wav,0.6341540813446045, How does that sharpness?
+/workspace/data/synthesized_audio/Q409.wav,0.8514339923858643, What can I do if the computer picture is not stable?
+/workspace/data/synthesized_audio/Q403.wav,0.9082686901092529, What can I do about poor antenna reception?
+/workspace/data/synthesized_audio/Q252.wav,0.7966058254241943, How do I set Ambulite Wall Color?
+/workspace/data/synthesized_audio/Q298.wav,0.7284669876098633, Does this television contain open source software?
+/workspace/data/synthesized_audio/Q094.wav,1.0568342208862305, How can I create a list of favorite channels?
+/workspace/data/synthesized_audio/Q305.wav,0.8671071529388428, How can I set the time zone?
+/workspace/data/synthesized_audio/Q071.wav,0.6222414970397949, How to Lock a Channel.
+/workspace/data/synthesized_audio/Q223.wav,0.7120776176452637, How do I set up height speakers?
+/workspace/data/synthesized_audio/Q109.wav,0.986504316329956, What can you tell me about copy protection?
+/workspace/data/synthesized_audio/Q057.wav,0.8030543327331543, How can I start a manual channel update on my TV?
+/workspace/data/synthesized_audio/Q356.wav,0.7730388641357422, How can I open 360 photos folder?
+/workspace/data/synthesized_audio/Q251.wav,1.058398962020874, How do I set Ambilite Saturation?
+/workspace/data/synthesized_audio/Q437.wav,0.6087660789489746, Transportation in low temperatures.
+/workspace/data/synthesized_audio/Q297.wav,0.9025998115539551, How can I display TV status information?
+/workspace/data/synthesized_audio/Q337.wav,0.7076025009155273, How can I update the remote control software?
+/workspace/data/synthesized_audio/Q107.wav,0.7792127132415771, What can you tell me about HDMI quality?
+/workspace/data/synthesized_audio/Q089.wav,0.6964983940124512, How can I find service navigation?
+/workspace/data/synthesized_audio/Q164.wav,0.7199387550354004, How to configure network and Internet.
+/workspace/data/synthesized_audio/Q354.wav,0.796534538269043, What can you tell me about browsing photo files?
+/workspace/data/synthesized_audio/Q217.wav,0.9277486801147461, How do I set the sound style?
+/workspace/data/synthesized_audio/Q449.wav,0.7902998924255371, What is the copyright of the Wi-Fi Alliance?
+/workspace/data/synthesized_audio/Q318.wav,0.8223371505737305, How can I cast an app to the TV screen?
+/workspace/data/synthesized_audio/Q304.wav,0.8059403896331787, How can I set the time?
+/workspace/data/synthesized_audio/Q119.wav,0.8441438674926758, How can I set the signal quality for each HDMI connector?
+/workspace/data/synthesized_audio/Q122.wav,0.5763249397277832, Ultra HD options.
+/workspace/data/synthesized_audio/Q319.wav,0.7855408191680908, How can I enable or disable the system sounds?
+/workspace/data/synthesized_audio/Q236.wav,0.6900351047515869, How do I turn on Ambulite?
+/workspace/data/synthesized_audio/Q066.wav,0.8538546562194824, How to upload channel list to install TVS.
+/workspace/data/synthesized_audio/Q348.wav,0.8181135654449463, Can you show me the control bar to play videos?
+/workspace/data/synthesized_audio/Q210.wav,0.9411110877990723, How do I set up a DTS PlayFi compatible device?
+/workspace/data/synthesized_audio/Q127.wav,0.8389463424682617," What can you tell me about HDR10+, or Dolby?"
+/workspace/data/synthesized_audio/Q049.wav,0.7568001747131348, How I can switch the TV to standby.
+/workspace/data/synthesized_audio/Q215.wav,0.8614659309387207, How do I test my hearing and set up my hearing profile?
+/workspace/data/synthesized_audio/Q353.wav,0.8035988807678223, Can you show me the control bar to play videos?
+/workspace/data/synthesized_audio/Q014.wav,0.9992334842681885, How to insert the antenna plug into the antenna socket.
+/workspace/data/synthesized_audio/Q388.wav,0.8031308650970459, How can I open Help?
+/workspace/data/synthesized_audio/Q175.wav,0.9200789928436279, How do I set the backlight contrast?
+/workspace/data/synthesized_audio/Q368.wav,1.3383004665374756, How do I start a game on a game console or computer for the first time?
+/workspace/data/synthesized_audio/Q320.wav,0.9344370365142822, How can I set a new code or reset the change code for child lock?
+/workspace/data/synthesized_audio/Q366.wav,0.948199987411499, How do I install games from the Play Store?
+/workspace/data/synthesized_audio/Q340.wav,0.8994572162628174, How can I add a folder or a file to the Favorites menu?
+/workspace/data/synthesized_audio/Q229.wav,0.7369599342346191, How do I set up Dolby Atmos notification?
+/workspace/data/synthesized_audio/Q064.wav,0.8179271221160889, How can I check the current version of the channel list?
+/workspace/data/synthesized_audio/Q111.wav,0.8517539501190186, What can you tell me about HDMI EARC?
+/workspace/data/synthesized_audio/Q160.wav,0.7540726661682129, Do you have any notes for AMD graphics card users?
+/workspace/data/synthesized_audio/Q161.wav,0.7700643539428711, How do I connect my TV to the internet wirelessly?
+/workspace/data/synthesized_audio/Q081.wav,0.6683344841003418, What is audio language?
+/workspace/data/synthesized_audio/Q121.wav,0.8672182559967041, What is the maximum allowed in the setting standard to ultra HD?
+/workspace/data/synthesized_audio/Q219.wav,0.896024227142334, How do I adjust the treble level?
+/workspace/data/synthesized_audio/Q044.wav,1.1136648654937744, How do I use a remote control that uses IR infrared?
+/workspace/data/synthesized_audio/Q084.wav,0.81146240234375, How can I set the mixed volume in audio description?
+/workspace/data/synthesized_audio/Q246.wav,0.8093485832214355, How do I set the ambus-leap color?
+/workspace/data/synthesized_audio/Q209.wav,0.8058891296386719, How do I stream audio wirelessly to my speakers?
+/workspace/data/synthesized_audio/Q128.wav,0.9730892181396484, Premium G sync games for supported TV models.
+/workspace/data/synthesized_audio/Q344.wav,1.5423479080200195, How could I view my photos or play music and videos from a connected USB flash drive or USB hard drive?
+/workspace/data/synthesized_audio/Q440.wav,0.8176910877227783, What are the terms of use TV?
+/workspace/data/synthesized_audio/Q191.wav,0.8381226062774658, How do I set up texture enhancement?
+/workspace/data/synthesized_audio/Q258.wav,1.2033088207244873," How do I view the current configuration of Phillips wireless home speakers with Ambalite, Network and Speaker LEDs?"
+/workspace/data/synthesized_audio/Q120.wav,0.8794667720794678, What is the maximum allowed in the setting optimal to ultra HD?
+/workspace/data/synthesized_audio/Q159.wav,0.845128059387207, Do you have any notes for Nvidia graphics card users?
+/workspace/data/synthesized_audio/Q237.wav,0.6348025798797607, How do I follow video?
+/workspace/data/synthesized_audio/Q451.wav,0.9994540214538574, What are the copyrights of other trademarks?
+/workspace/data/synthesized_audio/Q416.wav,0.8923358917236328, What can I do if the Wi-Fi network not found or distorted?
+/workspace/data/synthesized_audio/Q431.wav,1.1149449348449707, What is the risk of injury or damage to the TV?
+/workspace/data/synthesized_audio/Q142.wav,0.8058559894561768, How can I connect a USB keyboard?
+/workspace/data/synthesized_audio/Q033.wav,1.083251953125, How do I open or close the TV guide?
+/workspace/data/synthesized_audio/Q254.wav,0.9585614204406738, How do I adjust ambulance warm white?
+/workspace/data/synthesized_audio/Q129.wav,0.7999057769775391, How to connect home theater system with HDMI Arc EARC.
+/workspace/data/synthesized_audio/Q317.wav,0.7828423976898193, What can you tell me about apps with Google Cast?
+/workspace/data/synthesized_audio/Q054.wav,0.9716863632202148, How can I change channels without the remote control?
+/workspace/data/synthesized_audio/Q401.wav,1.2688624858856201, What can I do if there's no picture or if the picture is distorted?
+/workspace/data/synthesized_audio/Q425.wav,0.7687935829162598, How can I change the language back to language in basic mode?
+/workspace/data/synthesized_audio/Q241.wav,0.588170051574707, How to follow app.
+/workspace/data/synthesized_audio/Q133.wav,1.0009677410125732, What can I do if sound with loud noise?
+/workspace/data/synthesized_audio/Q063.wav,0.6977083683013916, How can I copy a channel list?
+/workspace/data/synthesized_audio/Q360.wav,0.7276444435119629, How can I open music folder?
+/workspace/data/synthesized_audio/Q149.wav,0.7912795543670654, How can I stop watching the USB storage content?
+/workspace/data/synthesized_audio/Q087.wav,0.8690333366394043, How can I set the dialogue enhancement in Universal Enhancement?
+/workspace/data/synthesized_audio/Q396.wav,1.1095130443572998, What can I do if the TV makes a creaking sound at startup or when switching off?
+/workspace/data/synthesized_audio/Q136.wav,0.820915937423706, What can you tell me about digital audio out optical?
+/workspace/data/synthesized_audio/Q341.wav,0.7080423831939697, How can I view favorite files?
+/workspace/data/synthesized_audio/Q098.wav,0.7151455879211426, Tell me what is TV guide data.
+/workspace/data/synthesized_audio/Q346.wav,0.7293508052825928, How can I open video folder?
+/workspace/data/synthesized_audio/Q412.wav,0.814528226852417, What can I do if HDMI easily is not working?
+/workspace/data/synthesized_audio/Q276.wav,0.9444572925567627, What you can tell me about Google Play Store and what is need to use.
+/workspace/data/synthesized_audio/Q220.wav,0.9268929958343506, How do I customize the equalizer?
+/workspace/data/synthesized_audio/Q059.wav,0.8282434940338135, What should I select after accessing the antenna cable installation option?
+/workspace/data/synthesized_audio/Q043.wav,0.870621919631958, How do I perform a voice search?
+/workspace/data/synthesized_audio/Q183.wav,0.6704998016357422, How does that color?
+/workspace/data/synthesized_audio/Q086.wav,0.770831823348999, How can I select speech in audio description?
+/workspace/data/synthesized_audio/Q168.wav,0.6817290782928467, How to access the quick menu and TV settings.
+/workspace/data/synthesized_audio/Q076.wav,0.8227193355560303, How can I switch off the parental age rating?
+/workspace/data/synthesized_audio/Q373.wav,0.7178454399108887, What can you tell me about Alexa?
+/workspace/data/synthesized_audio/Q441.wav,0.7572665214538574, What are the terms of use? Smart TV.
+/workspace/data/synthesized_audio/Q330.wav,0.8991861343383789, How can I connect or disconnect a Bluetooth registered device?
+/workspace/data/synthesized_audio/Q408.wav,0.835538387298584, What can I do if the picture position is incorrect?
+/workspace/data/synthesized_audio/Q365.wav,0.779271125793457, How do I download the Phillips TV remote app?
+/workspace/data/synthesized_audio/Q419.wav,0.8097882270812988, What can I do if the connection fails?
+/workspace/data/synthesized_audio/Q381.wav,0.8087241649627686, What is the specification of the screen type?
+/workspace/data/synthesized_audio/Q378.wav,0.7832808494567871, What are the specifications for turning on the product?
+/workspace/data/synthesized_audio/Q146.wav,0.9219796657562256, What can you tell me about special keys for apps and internet pages?
+/workspace/data/synthesized_audio/Q279.wav,0.9233887195587158, What to do if Google Play Store is not in the app's row?
+/workspace/data/synthesized_audio/Q435.wav,0.7936525344848633, What about lightning storms?
+/workspace/data/synthesized_audio/Q235.wav,0.7844445705413818, How do I set the digital output offset?
+/workspace/data/synthesized_audio/Q322.wav,0.9462566375732422, How can I select the location on the TV in retail mode settings?
+/workspace/data/synthesized_audio/Q329.wav,0.8626604080200195, How can I pair a Bluetooth registered device with the TV?
+/workspace/data/synthesized_audio/Q144.wav,0.918198823928833, How can I change the keyboard layout?
+/workspace/data/synthesized_audio/Q338.wav,1.7822785377502441, How could I view my photos or play my music and videos from a computer or an NAS network attached storage on my home network?
+/workspace/data/synthesized_audio/Q097.wav,0.7219498157501221, How can I remove a favorites list?
+/workspace/data/synthesized_audio/Q303.wav,0.6684730052947998, How can I set the date?
+/workspace/data/synthesized_audio/Q186.wav,0.7776463031768799, How to Setup Color Enhancement
+/workspace/data/synthesized_audio/Q080.wav,0.8296191692352295, How can I switch to mono or stereo?
+/workspace/data/synthesized_audio/Q347.wav,0.7694070339202881, How can I play a video?
+/workspace/data/synthesized_audio/Q003.wav,1.0861537456512451, How to get personalized recommendations of streaming services.
+/workspace/data/synthesized_audio/Q015.wav,0.7580153942108154, How to get an overview of the keys top.
+/workspace/data/synthesized_audio/Q374.wav,0.7553894519805908, What is needed to control the TV with Alexa?
+/workspace/data/synthesized_audio/Q447.wav,0.7957346439361572, What is the copyright of DTS X?
+/workspace/data/synthesized_audio/Q067.wav,0.8940892219543457, How can I tune to a channel?
+/workspace/data/synthesized_audio/Q387.wav,0.8632452487945557, How can I register the TV to enjoy a range of benefits?
+/workspace/data/synthesized_audio/Q243.wav,0.701305627822876, How do I start Ambysleep?
+/workspace/data/synthesized_audio/Q339.wav,0.7836434841156006, How can I browse and play the files on computer?
+/workspace/data/synthesized_audio/Q349.wav,0.7698068618774414, What can you tell me about browsing video files?
+/workspace/data/synthesized_audio/Q397.wav,0.9297616481781006, What can I do if the TV doesn't respond to the remote control?
+/workspace/data/synthesized_audio/Q108.wav,0.8313398361206055, What to do if a device connected with HDMI is not working?
+/workspace/data/synthesized_audio/Q038.wav,0.8838992118835449, How do I mute or restore sound?
+/workspace/data/synthesized_audio/Q056.wav,0.78470778465271, How can I access demo to start a demo movie?
+/workspace/data/synthesized_audio/Q195.wav,0.8821191787719727, How do I set smoothness?
+/workspace/data/synthesized_audio/Q420.wav,1.0305120944976807, What can I do if streaming video quality is poor?
+/workspace/data/synthesized_audio/Q115.wav,0.8778889179229736, How can I power off HDMI devices with the TV?
+/workspace/data/synthesized_audio/Q078.wav,0.8519914150238037, How can I open the channel options?
+/workspace/data/synthesized_audio/Q180.wav,0.7912445068359375, How do I set contrast enhancement dynamic enhancement level?
+/workspace/data/synthesized_audio/Q375.wav,0.8141844272613525, What can you tell me about Alexa skills?
+/workspace/data/synthesized_audio/Q025.wav,0.7289462089538574, How do I return to the previous menu?
+/workspace/data/synthesized_audio/Q184.wav,0.6417567729949951, How to Set Saturation.
+/workspace/data/synthesized_audio/Q173.wav,1.0064005851745605, How do I turn on and off the automatic picture and movie style setting?
+/workspace/data/synthesized_audio/Q028.wav,0.7130470275878906, How to open the hell option.
+/workspace/data/synthesized_audio/Q213.wav,0.9744176864624023, How do I set up my home theater system with my TV and PlayFi TV speakers?
+/workspace/data/synthesized_audio/Q169.wav,0.7205934524536133, How do I set the TV image?
+/workspace/data/synthesized_audio/Q017.wav,0.7478179931640625, How do I start the netflix app?
+/workspace/data/synthesized_audio/Q262.wav,0.6759989261627197, How to start the Aurora app.
+/workspace/data/synthesized_audio/Q041.wav,0.9539618492126465, How do I check the software information of the remote control?
+/workspace/data/synthesized_audio/Q281.wav,1.08223295211792, How can I add a credit card on Google Play on TV?
+/workspace/data/synthesized_audio/Q124.wav,0.7617583274841309, What happens if I set optimal auto game?
+/workspace/data/synthesized_audio/Q287.wav,0.750077486038208, How can I turn on accessibility shortcut?
+/workspace/data/synthesized_audio/Q211.wav,1.3731050491333008," How do I set up a wireless DTS PlayFi, surround compatible device?"
+/workspace/data/synthesized_audio/Q352.wav,0.812002420425415, How can I view a photo?
+/workspace/data/synthesized_audio/Q158.wav,0.815056562423706, How can I connect a computer to the TV?
+/workspace/data/synthesized_audio/Q370.wav,0.7689616680145264, How do I set up the settings bar?
+/workspace/data/synthesized_audio/Q395.wav,0.8137719631195068, What can I do if the TV does not turn on?
+/workspace/data/synthesized_audio/Q096.wav,0.9394323825836182, How can I rename a favorites list?
+/workspace/data/synthesized_audio/Q438.wav,0.7835993766784668, What should I do if my TV has moisture levels on the front?
+/workspace/data/synthesized_audio/Q328.wav,0.7594559192657471, What you can tell about pair accessory.
+/workspace/data/synthesized_audio/Q253.wav,0.7644753456115723, How do I set Ambelite to turn off immediately?
+/workspace/data/synthesized_audio/Q290.wav,0.7071449756622314, How can I software update by myself?
+/workspace/data/synthesized_audio/Q093.wav,0.794182300567627, How can I select a channel from the favorites list?
+/workspace/data/synthesized_audio/Q268.wav,0.9339427947998047," How can I watch a rented or purchased movie, or TV show in Google TV app?"
+/workspace/data/synthesized_audio/Q443.wav,1.046543836593628, What are the terms HDMI and HDMI high-definition multimedia interface?
+/workspace/data/synthesized_audio/Q452.wav,0.9086863994598389, About services offered by third parties.
+/workspace/data/synthesized_audio/Q292.wav,0.8466339111328125, How can I update from USB?
+/workspace/data/synthesized_audio/Q004.wav,0.7154324054718018, How to find quickly a particular application.
+/workspace/data/synthesized_audio/Q204.wav,0.968146562576294, How do I set up AI equalizer?
+/workspace/data/synthesized_audio/Q296.wav,0.8015258312225342, How can I reset all settings value to original TV settings?
+/workspace/data/synthesized_audio/Q336.wav,0.7118356227874756, How can I view the remote control information?
+/workspace/data/synthesized_audio/Q245.wav,0.8301146030426025, How do I set brightness?
+/workspace/data/synthesized_audio/Q020.wav,0.7863426208496094, How to open the quick menu with common TV functions?
+/workspace/data/synthesized_audio/Q228.wav,0.7686038017272949, How do I set up control volume?
+/workspace/data/synthesized_audio/Q325.wav,1.1651520729064941, How can I set logos and banner in retail mode settings?
+/workspace/data/synthesized_audio/Q150.wav,0.7452352046966553, How can I remove the USB storage device safely?
+/workspace/data/synthesized_audio/Q295.wav,0.6922011375427246, How can I reinstall TV?
+/workspace/data/synthesized_audio/Q070.wav,0.6318871974945068, What is lock channel?
+/workspace/data/synthesized_audio/Q095.wav,0.9780030250549316, How can I add a consecutive range of channels to a favorites list in one go?
+/workspace/data/synthesized_audio/Q274.wav,0.7799999713897705, How can I select and install new games apps on TV?
+/workspace/data/synthesized_audio/Q126.wav,0.8207449913024902, What can you tell me about G-Sync?
+/workspace/data/synthesized_audio/Q002.wav,0.7348053455352783, How do I access the home screen?
+/workspace/data/synthesized_audio/Q208.wav,0.8809950351715088, How do I set up DTS PlayFi surround wirelessly?
+/workspace/data/synthesized_audio/Q073.wav,0.8147218227386475, How to lock or unlock channels in a channel list.
+/workspace/data/synthesized_audio/Q404.wav,0.820692777633667, What can I do about poor picture quality from a device?
+/workspace/data/synthesized_audio/Q139.wav,0.7708134651184082, What can you tell me about headphones?
+/workspace/data/synthesized_audio/Q450.wav,0.9616978168487549, What are Kensington's copyrights?
+/workspace/data/synthesized_audio/Q007.wav,1.0494046211242676, How do I set between Google TV mode and basic mode?
+/workspace/data/synthesized_audio/Q310.wav,0.8834295272827148, How can I set ambient mode?
+/workspace/data/synthesized_audio/Q182.wav,0.6096527576446533, How to set HDR effect?
+/workspace/data/synthesized_audio/Q423.wav,1.322218894958496, What can I do if Bluetooth registered audio and video synchronization is not working properly?
+/workspace/data/synthesized_audio/Q299.wav,0.9809889793395996, What you can tell me about open source license.
+/workspace/data/synthesized_audio/Q371.wav,0.823509931564331, How to set up spatial audio sound effect for Netflix content.
+/workspace/data/synthesized_audio/Q259.wav,0.5792367458343506, Home speakers.
+/workspace/data/synthesized_audio/Q448.wav,0.7651329040527344, What is the copyright of DTS PlayFi?
+/workspace/data/synthesized_audio/Q240.wav,0.7002015113830566, How to set up support your team.
+/workspace/data/synthesized_audio/Q326.wav,1.1417145729064941, How can I turn on off the demo me or ambalight demo auto start in retail mode settings?
+/workspace/data/synthesized_audio/Q171.wav,0.9621798992156982, How do I restore the picture style settings?
+/workspace/data/synthesized_audio/Q393.wav,0.8410780429840088, What can you tell me about TV self-diagnose?
+/workspace/data/synthesized_audio/Q116.wav,0.7134721279144287, How can I set easy link to sound control?
+/workspace/data/synthesized_audio/Q247.wav,0.7246391773223877, How do I set up Ambysleep Audio?
+/workspace/data/synthesized_audio/Q060.wav,0.6568076610565186, What is the channel list copy feature?
+/workspace/data/synthesized_audio/Q118.wav,1.047405481338501, What could you tell me about HDMI Ultra HD?
+/workspace/data/synthesized_audio/Q147.wav,0.9650607109069824, How can I view photos or play music's and videos from a USB flash drive?
+/workspace/data/synthesized_audio/Q062.wav,1.0883939266204834, How can I check the current version of the channel list?
+/workspace/data/synthesized_audio/Q269.wav,1.1721315383911133, What to do if Google TV is not in the app's row?
+/workspace/data/synthesized_audio/Q288.wav,0.7397959232330322, Are there more accessibility services provided by Google?
+/workspace/data/synthesized_audio/Q383.wav,0.7493438720703125, which display input resolutions are supported only.
+/workspace/data/synthesized_audio/Q285.wav,1.041968822479248, How can I turn on high contrast text?
+/workspace/data/synthesized_audio/Q289.wav,0.8352558612823486, How can I update from Internet?
+/workspace/data/synthesized_audio/Q134.wav,1.0222454071044922, How can it fix the problem sound with loud noise?
+/workspace/data/synthesized_audio/Q148.wav,0.8786861896514893, What should I do if USB flash drive or USB hard drive does not appear automatically?
+/workspace/data/synthesized_audio/Q030.wav,0.6593992710113525, How do I start Google Assistant?
+/workspace/data/synthesized_audio/Q165.wav,1.088822364807129, How to log into TV with email and password.
+/workspace/data/synthesized_audio/Q233.wav,0.7558526992797852, How do I use digital output leveler?
+/workspace/data/synthesized_audio/Q417.wav,0.8344721794128418, What can I do if the internet is not working?
+/workspace/data/synthesized_audio/Q302.wav,0.8275578022003174, How can I set the automatic date and time?
+/workspace/data/synthesized_audio/Q026.wav,0.5650300979614258, Apps Internet
+/workspace/data/synthesized_audio/Q402.wav,1.0099291801452637, What can I do if they're sound but no picture?
+/workspace/data/synthesized_audio/Q163.wav,0.897172212600708," How to solve the problem of wireless network, not found or distorted."
+/workspace/data/synthesized_audio/Q342.wav,0.8447189331054688, How can I view most popular files or clear the list?
+/workspace/data/synthesized_audio/Q021.wav,0.839850902557373, How do I return to watching TV or stop an interactive TV application?
+/workspace/data/synthesized_audio/Q189.wav,0.6729605197906494, How does that color control?
+/workspace/data/synthesized_audio/Q202.wav,0.7330501079559326, How do I set up Speaker Virtualizer?
+/workspace/data/synthesized_audio/Q035.wav,0.699979305267334, How to select a channel directly.
+/workspace/data/synthesized_audio/Q024.wav,1.0395686626434326, How do I return to the previously selected channel?
+/workspace/data/synthesized_audio/Q315.wav,0.9925544261932373, How can I set the TV switch off timer?
+/workspace/data/synthesized_audio/Q277.wav,0.7481632232666016, How can I install a new in Google Play Store?
+/workspace/data/synthesized_audio/Q201.wav,0.6564414501190186, How do I restore personal settings?
+/workspace/data/synthesized_audio/Q069.wav,0.7208106517791748, How can I go to previous channel?
+/workspace/data/synthesized_audio/Q170.wav,0.6736409664154053, How to set an image style.
+/workspace/data/synthesized_audio/Q125.wav,1.2269854545593262," What happens if I set Optimal, AutoGameXXHC Pro?"
+/workspace/data/synthesized_audio/Q137.wav,0.9857568740844727, How can I connect to smartphones and tablets?
+/workspace/data/synthesized_audio/Q231.wav,0.665938138961792, How do I set up ERC?
+/workspace/data/synthesized_audio/Q380.wav,0.7100129127502441, What are the receptions specifications?
+/workspace/data/synthesized_audio/Q207.wav,0.9768614768981934, How do I set up TV placement?
+/workspace/data/synthesized_audio/Q053.wav,0.9655625820159912, How can I adjust the volume without the remote?
+/workspace/data/synthesized_audio/Q212.wav,1.276855707168579, How do I set up PlayFi speakers as front speakers for my TV?
+/workspace/data/synthesized_audio/Q155.wav,1.402299165725708, How can I view photos in ultra HD resolution from a connected USB device or flash drive?
+/workspace/data/synthesized_audio/Q188.wav,0.8991141319274902, How do I set the color temperature?
+/workspace/data/synthesized_audio/Q082.wav,0.8605606555938721, How can I set the universal access?
+/workspace/data/synthesized_audio/Q410.wav,0.9364893436431885, What can I do if there's no sound or the sound quality is poor?
+/workspace/data/synthesized_audio/Q424.wav,0.9465420246124268, How can I change the language back to language in Google TV mode?
+/workspace/data/synthesized_audio/Q376.wav,0.6582274436950684, What is needed to using Alexa?
+/workspace/data/synthesized_audio/Q051.wav,0.957390308380127, How can I to turn off the TV completely?
+/workspace/data/synthesized_audio/Q282.wav,1.083071231842041, How can I start or stop a app from home screen?
+/workspace/data/synthesized_audio/Q300.wav,0.9853882789611816, How can I view the current TV software version?
+/workspace/data/synthesized_audio/Q444.wav,0.6739487648010254, What has advanced HVC?
+/workspace/data/synthesized_audio/Q103.wav,0.618992805480957, What is search by genre?
+/workspace/data/synthesized_audio/Q012.wav,0.7255942821502686, What is the recommended positioning for TV?
+/workspace/data/synthesized_audio/Q040.wav,0.782484769821167, How do I pair the remote control with the TV?
+/workspace/data/synthesized_audio/Q198.wav,0.660757303237915, How to Set Image Format.
+/workspace/data/synthesized_audio/Q377.wav,0.9694778919219971, How do I set up my TV for Alexa?
+/workspace/data/synthesized_audio/Q102.wav,0.8566105365753174, How can I view the scheduled programs for the upcoming days in TV Guide?
+/workspace/data/synthesized_audio/Q039.wav,1.1021311283111572," How do I launch the Edge panel and access settings? Device controls, notifications, and more."
+/workspace/data/synthesized_audio/Q138.wav,0.7361493110656738, How can I use Blu-ray disc player?
+/workspace/data/synthesized_audio/Q031.wav,0.6603007316589355, How do I open the home menu?
+/workspace/data/synthesized_audio/Q427.wav,0.7410666942596436, What kind of support and repair options are available?
+/workspace/data/synthesized_audio/Q001.wav,0.7786219120025635, How do I connect my TV to the Internet?
+/workspace/data/synthesized_audio/Q091.wav,0.7916154861450195, What is a favorite channel?
+/workspace/data/synthesized_audio/Q006.wav,0.9347577095031738, How do I access the dashboard and settings?
+/workspace/data/synthesized_audio/Q092.wav,0.7736878395080566, How many favorite channel lists can I create?
+/workspace/data/synthesized_audio/Q407.wav,0.8109891414642334, What can I do if a picture does not fit the screen?
+/workspace/data/synthesized_audio/Q206.wav,0.6867635250091553, How do I restore personal settings?
+/workspace/data/synthesized_audio/Q068.wav,0.6421265602111816, How can I change channels?
+/workspace/data/synthesized_audio/Q244.wav,1.0248613357543945, How do I set the duration of Ambysleep?
+/workspace/data/synthesized_audio/Q232.wav,0.7090539932250977, How to set digital output format.
+/workspace/data/synthesized_audio/Q446.wav,1.1885132789611816, What are the copyrights of Dolby Vision and Dolby Atmos?
+/workspace/data/synthesized_audio/Q323.wav,0.7868304252624512, How can I adjust shop settings in retail mode settings?
+/workspace/data/synthesized_audio/Q130.wav,0.791100263595581, What can you tell me about HDMI Arc?
+/workspace/data/synthesized_audio/Q291.wav,0.8760366439819336, What it might be necessary to update the TV software from USB.
+/workspace/data/synthesized_audio/Q428.wav,0.8030939102172852, How can I find the TV's model number and serial number?
+/workspace/data/synthesized_audio/Q123.wav,1.3480520248413086, What should I do if the picture or sound is distorted in HDMI Ultra HD?
+/workspace/data/synthesized_audio/Q266.wav,0.7835235595703125, What you can tell me about Google TV app.
+/workspace/data/synthesized_audio/Q239.wav,0.7285130023956299, How to Track Color.
+/workspace/data/synthesized_audio/Q436.wav,0.8585612773895264, What are the risks of hearing damage?
+/workspace/data/synthesized_audio/Q361.wav,0.6313257217407227, How can I play music?
+/workspace/data/synthesized_audio/Q238.wav,0.6598546504974365, How do I follow audio?
+/workspace/data/synthesized_audio/Q294.wav,1.2835471630096436, How can I view the list of software versions that are successfully updated on the TV?
+/workspace/data/synthesized_audio/Q273.wav,0.8130800724029541, What do I need to use the Google Play Games app?
+/workspace/data/synthesized_audio/Q194.wav,0.699232816696167, How do I set up motion styles?
+/workspace/data/synthesized_audio/Q272.wav,0.6885497570037842, What you can tell me about Google Play Games app.
+/workspace/data/synthesized_audio/Q406.wav,1.047013521194458, What can I do if a commercial banner appears?
+/workspace/data/synthesized_audio/Q101.wav,0.8002614974975586," How can I view program details, TV guide program?"
+/workspace/data/synthesized_audio/Q090.wav,0.8455047607421875, How can I switch off channel logos?
+/workspace/data/synthesized_audio/Q414.wav,0.9928758144378662, What can I do if no volume icon is shown?
+/workspace/data/synthesized_audio/Q293.wav,0.6713933944702148, How update the TV software automatically?
+/workspace/data/synthesized_audio/Q261.wav,0.9801514148712158, How to get out of the sunrise alarm.
+/workspace/data/synthesized_audio/Q283.wav,0.8399386405944824, What you can tell me about manage apps.
+/workspace/data/synthesized_audio/Q379.wav,0.7412874698638916, What is the operating system?
+/workspace/data/synthesized_audio/Q225.wav,0.7205681800842285, How do I reset everything to default?
+/workspace/data/synthesized_audio/Q430.wav,0.8002259731292725, What are the risks of electric shock or fire?
+/workspace/data/synthesized_audio/Q151.wav,1.3523805141448975, How can I view photos in ultra HD resolution from a connected USB-S storage device?
+/workspace/data/synthesized_audio/Q113.wav,0.6589887142181396, How can I switch on easy link?
+/workspace/data/synthesized_audio/Q400.wav,1.0142097473144531, What can I do if previously installed channels are not showing in the channel list?
+/workspace/data/synthesized_audio/Q278.wav,0.8457961082458496, How can I set parental control in Google Play Store?
+/workspace/data/synthesized_audio/Q042.wav,0.5519821643829346, Remote control software.
+/workspace/data/synthesized_audio/Q167.wav,1.094466209411621, How do I switch to any of the connected devices?
+/workspace/data/synthesized_audio/Q156.wav,1.0273072719573975, How can I have more information on viewing photos?
+/workspace/data/synthesized_audio/Q162.wav,0.8755199909210205, How do I connect my TV to the Internet using a wired connection?
+/workspace/data/synthesized_audio/Q265.wav,0.7943918704986572, How can I install apps from the Google Play TM Store?
+/workspace/data/synthesized_audio/Q074.wav,0.7869348526000977, Suitable for their age.
+/workspace/data/synthesized_audio/Q335.wav,1.0442862510681152, How can I pairing or pairing again the remote control?
+/workspace/data/synthesized_audio/Q083.wav,0.9008970260620117, How can I set the universal access for blind or partially sighted people?
+/workspace/data/synthesized_audio/Q079.wav,0.5770080089569092, What are channel options?
+/workspace/data/synthesized_audio/Q389.wav,0.9789772033691406," How can I access TV help on a tablet, smartphone or computer?"
+/workspace/data/synthesized_audio/Q132.wav,1.007981538772583, What can I do if the sound does not match the video on screen?
+/workspace/data/synthesized_audio/Q386.wav,0.7721869945526123, What are the multimedia specifications?
+/workspace/data/synthesized_audio/Q345.wav,0.924490213394165, What can I do if the list of files does not appear automatically?
+/workspace/data/synthesized_audio/Q307.wav,1.0610499382019043, How can I change the language of the TV menu and messages?
+/workspace/data/synthesized_audio/Q037.wav,1.1542799472808838, How do I go to the next or previous channel in the channel list?
+/workspace/data/synthesized_audio/Q045.wav,0.8361639976501465, How do I replace the batteries in the remote control?
+/workspace/data/synthesized_audio/Q022.wav,0.9236633777618408, How do I confirm a selection or setting?
+/workspace/data/synthesized_audio/Q088.wav,0.7792525291442871, How can I switch off the jing of fatter?
+/workspace/data/synthesized_audio/Q197.wav,0.8693070411682129, How do I set up quick picture settings?
+/workspace/data/synthesized_audio/Q016.wav,0.8097832202911377, How do I launch the Amazon Prime Video app?
+/workspace/data/synthesized_audio/Q411.wav,0.8715131282806396, What can you tell me about HDMI troubleshooting?
+/workspace/data/synthesized_audio/Q263.wav,0.7792019844055176, How to put the TV into standby mode.
+/workspace/data/synthesized_audio/Q185.wav,0.8797638416290283, How to set the hue setting.
+/workspace/data/synthesized_audio/Q394.wav,0.8254971504211426, How can I run a self-diagnose?
+/workspace/data/synthesized_audio/Q312.wav,0.7532992362976074, How can I set the energy saver?
+/workspace/data/synthesized_audio/Q275.wav,0.8432624340057373, How can I start or stop a Google Play game?
+/workspace/data/synthesized_audio/Q027.wav,0.9240102767944336, How do I open or close the options menu?
+/workspace/data/synthesized_audio/Q075.wav,0.8361012935638428, How can I set an age rating?
+/workspace/data/synthesized_audio/Q242.wav,0.5997316837310791, How do I set custom color?
+/workspace/data/synthesized_audio/Q135.wav,1.0849783420562744, What can I do if I cannot hear the sound from the TV on home feather system?
+/workspace/data/synthesized_audio/Q434.wav,0.6932985782623291, What is the risk of overheating?
+/workspace/data/synthesized_audio/Q271.wav,0.9800114631652832, What do I need to use the YouTube Music app?
+/workspace/data/synthesized_audio/Q131.wav,0.8421366214752197, What can you tell me about HDMI EARC?
+/workspace/data/synthesized_audio/Q343.wav,0.9363350868225098, How can I view last played files?
+/workspace/data/synthesized_audio/Q439.wav,0.6396594047546387, How to care for the screen.
+/workspace/data/synthesized_audio/Q333.wav,0.9990317821502686, How can I remove Bluetooth registered device?
+/workspace/data/synthesized_audio/Q100.wav,0.6645364761352539, Tell me what is TV guide data.
+/workspace/data/synthesized_audio/Q018.wav,0.6799426078796387, How do I open the YouTube app?
+/workspace/data/synthesized_audio/Q358.wav,0.8281490802764893, Can you show me the control bar to view 360 photos?
+/workspace/data/synthesized_audio/Q280.wav,0.8213503360748291, How can I make a payment on Google Play on TV?
+/workspace/data/synthesized_audio/Q174.wav,0.7025606632232666, How to set ambient light level.
+/workspace/data/synthesized_audio/Q050.wav,0.7285997867584229, What's happened in standby mode?
+/workspace/data/synthesized_audio/Q179.wav,0.6556046009063721, How to set black level.
+/workspace/data/synthesized_audio/Q367.wav,1.0862317085266113, How many game pads can be connected to the TV simultaneously?
+/workspace/data/synthesized_audio/Q105.wav,0.6956617832183838, What can you tell me about connections?
+/workspace/data/synthesized_audio/Q058.wav,0.9266147613525391, What should I do if the TV asks for a pin code during the manual channel update?
+/workspace/data/synthesized_audio/Q384.wav,0.6870250701904297, What are the connectivity specifications?
+/workspace/data/synthesized_audio/Q154.wav,0.9283034801483154, What should I do if content list does not appear automatically on the camera?
+/workspace/data/synthesized_audio/Q234.wav,0.7767651081085205, How do I set the digital output delay?
+/workspace/data/synthesized_audio/Q331.wav,0.8146896362304688, How can I rename a Bluetooth registered device?
+/workspace/data/synthesized_audio/Q350.wav,1.1143035888671875, What can you tell me about playing video filus?
+/workspace/data/synthesized_audio/Q048.wav,0.608208179473877, How can I reboot my TV?
+/workspace/data/synthesized_audio/Q391.wav,0.7960700988769531, What can you tell me about TV diagnosis?
+/workspace/data/synthesized_audio/Q145.wav,1.0743787288665771, What can you tell me about special keys for entering text?
+/workspace/data/synthesized_audio/Q433.wav,0.7105534076690674, What are the risks of batteries?
+/workspace/data/synthesized_audio/Q065.wav,1.1530797481536865, How to upload channel list to an not installed TVS.
+/workspace/data/synthesized_audio/Q176.wav,0.892472505569458, How do I set contrast modes?
+/workspace/data/synthesized_audio/Q355.wav,0.6960253715515137, What can you tell me about playing photo files?
+/workspace/data/synthesized_audio/Q141.wav,0.773773193359375, How can I have a better quality in game consoles?
+/workspace/data/synthesized_audio/Q055.wav,1.045996904373169, How can I access the sources without the remote control?
+/workspace/data/synthesized_audio/Q382.wav,0.7828865051269531, What screen input resolutions are supported by computer video?
+/workspace/data/synthesized_audio/Q327.wav,0.9029545783996582, How can I restart the TV?
+/workspace/data/synthesized_audio/Q193.wav,0.8679454326629639, How do I set up MPEG artifact reduction?
+/workspace/data/synthesized_audio/Q422.wav,0.8505210876464844, What can I do if the Bluetooth registered connection is lost?
+/workspace/data/synthesized_audio/Q432.wav,0.6773836612701416, What are the stability hazards?
+/workspace/data/synthesized_audio/Q112.wav,1.0173287391662598, What can you tell me about HDMI CEC easily?
+/workspace/data/synthesized_audio/Q332.wav,0.7258400917053223, Is there another way to disconnect Bluetooth?
+/workspace/data/synthesized_audio/Q143.wav,0.7335429191589355, How can I install the keyboard?
+/workspace/data/synthesized_audio/Q218.wav,0.8873240947723389, How do I adjust the bass level?
+/workspace/data/synthesized_audio/Q399.wav,0.8690218925476074, What can I do if no digital channels are found during installation?
+/workspace/data/synthesized_audio/Q104.wav,0.7534351348876953, How can I search by genre and TV guide?
+/workspace/data/synthesized_audio/Q369.wav,1.091202735900879, How do I turn the game control bar on and off in game mode or monitor mode?
+/workspace/data/synthesized_audio/Q260.wav,0.8087725639343262, How do I access the sunrise alarm settings menu?
+/workspace/data/synthesized_audio/Q085.wav,0.7828571796417236, How can I switch audio effects in audio description?
+/workspace/data/synthesized_audio/Q157.wav,0.9771466255187988, How can I have a best quality in camcorder?
+/workspace/data/synthesized_audio/Q392.wav,0.9538273811340332, How can I run a TV diagnosis test?
+/workspace/data/synthesized_audio/Q321.wav,1.0942323207855225, How can I set the lock to block the rated programs in child lock?
+/workspace/data/synthesized_audio/Q357.wav,0.7928156852722168, How can I view in 360 photos?
+/workspace/data/synthesized_audio/Q034.wav,0.6705975532531738, How to adjust the volume level.

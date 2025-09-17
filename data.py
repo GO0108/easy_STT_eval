@@ -15,7 +15,7 @@ class DatasetLoader:
         if not os.path.exists(metadata_path):
             raise FileNotFoundError(f"Arquivo de metadados não encontrado: {metadata_path}")
         metadata = pd.read_csv(metadata_path)
-        return list(metadata.audio_segmentado)
+        return list(metadata.path)
 
     @staticmethod
     def load_huggingface_dataset(dataset_name, split="test", audio_column="audio"):
